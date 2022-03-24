@@ -1,0 +1,14 @@
+.color-letra {
+    font-size: xx-large;
+    color: black; 
+    background-color: rgba(205, 212, 96, 0.3);
+  }
+
+.color-parrafo{
+    color: black;
+    background-color: rgba(124, 196, 218, 0.3);
+
+}
+.color-fondo{
+    background-color: rgba(124, 196, 218, 0.3);
+}
